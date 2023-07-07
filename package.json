@@ -91,7 +91,7 @@
     "less": "^3.9.0",
     "lint-staged": "^8.1.7",
     "prettier": "^1.18.2",
-    "stylelint": "^10.1.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-css-modules": "^1.4.0",
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-rational-order": "^0.1.2",
